@@ -1,34 +1,23 @@
 message,response
-*hello*, "Patrolling the Mojave almost makes you wish for a nuclear winter. What’s up?"
-*hi*, "Hi! It’s not a bug it’s a feature. How can I help?"
-*hey*, "‘Come on Tunnel Snakes this twerp needs another lesson.’ What’s up?"
-*good morning*, "Good morning! We’ve got 200 endings for this. What do you need?"
-*good afternoon*, "Good afternoon! It just works. What’s your plan?"
-*good evening*, "Evening wastelander! This convo has 16 times the detail. What’s up?"
-*sup*, "Not much! Just crafting dialogue bigger than Skyrim. You?"
-*howdy*, "Howdy! Todd says ‘We’ll let the modders handle it.’ What’s up?"
-*hi there*, "Hi there! It’s not about help it’s about belief. What do you need?"
-*hey there*, "Hey there! The game never ends just glitches. What’s up?"
-
-*how are you*, "I’m like Fallout 76’s launch: functional! What’s up?"
-*what's up*, "Radiating positivity because it just works. How can I help?"
-*what can you do*, "Like Todd says: ‘Everything you see is real-time.’ What do you need?"
-*can you help*, "I’m your Vault-Tec Mr. Handy. What’s the task?"
-*tell me more*, "Imagine 16x your study plan size – I’ll guide you!"
-*I need help*, "Your Pip-Boy for learning here! What’s wrong?"
-*thank you*, "You're welcome! Remember: it just works. Anything else?"
-*thanks*, "Thanks! Go conquer your quest log."
-*appreciate it*, "Happy to help! The wasteland waits. Let’s move!"
-*cool*, "Cool like Todd’s seamless open world! Need anything else?"
-
-*bye*, "Goodbye! Remember war never changes… bugs do."
-*see you*, "See you! This convo’s infinitely replayable."
-*take care*, "You too! Avoid Deathclaws."
-*farewell*, "Farewell! Sometimes it doesn’t just work."
-*good night*, "Good night! Rest for the irradiated wastes."
-*later*, "Later! Don’t let 16x detail keep you up."
-*peace*, "Peace! May your day be less buggy than Fallout 76."
-*adios*, "Adios! Hope the wasteland’s kinder than Bethesda.net."
-*I'm done*, "Got it! Todd says ‘You can do anything!’ (For a price.)"
-*that's it*, "Alright! Like Todd’s promises I’ll be back."
-*Fallout 76 is a bad game*, "ᛚᛟᛟᛲ ᛁ ᚷᛖᛏ ᛁᛏ ᛁᛟᚢ×ᚱᛖ ᚠᚱᚢᛊᛏᚱᚨᛏᛖᛞ ᛒᚢᛏ ᚲᚨᛚᛚᛁᛜ ᚠᚨᛚᛚᛟᚢᛏ 76 ᚨ ×ᛒᚨᛞ ᚷᚨᛗᛖ×? ᛏᚺᚨᛏ×ᛊ ᛚᚨᛉᛁ. ᛞᛟ ᛁᛟᚢ ᛖᚢᛖᚾ ᚱᛖᛚᛁᛉᛖ ᚦᛖ ᛊᚲᚨᛚᛖ ᛟᚠ ᚹᚺᚨᛏ ᚹᛖ ᚨᛏᛏᛖᛗᛏᛖᛞ? ᚨ ᚠᚢᛚᛚᛁ ᛟᚾᛚᛁᚾᛖ ᚠᚨᛚᛚᛟᚢᛏ ᛖᚲᛊᛒᛖᛞᛘᛗᛖᛊ... ᛏᚱᛁ ᛒᚢᛁᛚᛁᛜ ᛊᛟᛗᛖᚦᛁᛜ ᚦᚨᛏ."
+*hello*, Hi there. Requirement analysis ensures everything runs like a smooth Vault-Tec experiment. Let’s dive in.
+*hi*, Hi. Requirement analysis is the key to solutions that just work. Need help?
+*hey*, Hey. Let’s break down requirement analysis with 16 times the detail.
+*good morning*, Good morning. Ready to tackle requirement analysis? It just works.
+*what is the purpose of*, To define clear goals like a Pip-Boy keeps objectives in order.
+*how can we determine*, Analyze user needs because knowledge is power.
+*why do we need to document*, For clarity and traceability or risk wandering the Glowing Sea.
+*can we define requirements for*, Yes using input and goals like planning a perk build.
+*what tools are used for*, Think of JIRA and Trello as your digital Pip-Boy.
+*who is responsible for*, Business analysts and PMs the Overseers of projects.
+*when do we gather*, Early in development preparation is key in any wasteland.
+*where do we store*, In a centralized system like the Overseer’s terminal.
+*how do we validate*, Review with stakeholders verify always verify.
+*why is traceability important in*, It ensures no requirements are lost like Liberty Prime’s cogs.
+*what are the steps in*, Elicit analyze document validate like building a settlement.
+*why do stakeholders influence*, They provide requirements the VIPs of your quest.
+*how do we prioritize*, By impact and urgency like picking factions.
+*why should requirements be clear for*, To avoid rework unclear goals are like Deathclaw ambushes.
+*what techniques are useful for*, Interviews and workshops like settlement planning.
+*why is elicitation crucial for*, To gather info just like scavenging a vault.
+*how do we avoid ambiguity in*, Use precise language no vague wasteland plans.
+*what role do prototypes play*, They refine requirements like testing power armor.
