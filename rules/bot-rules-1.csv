@@ -1,10 +1,3 @@
-##
-## Rules for SimpleBrain
-#
-# These rules have been generated using ChatGPT:
-# https://chatgpt.com/share/678efbb6-09b0-8002-b956-59fcce686777
-#
-
 message,response
 *hello*, "Patrolling the Mojave almost makes you wish for a nuclear winter. What’s up?"
 *hi*, "Hi! It’s not a bug it’s a feature. How can I help?"
@@ -38,6 +31,4 @@ message,response
 *adios*, "Adios! Hope the wasteland’s kinder than Bethesda.net."
 *I'm done*, "Got it! Todd says ‘You can do anything!’ (For a price.)"
 *that's it*, "Alright! Like Todd’s promises I’ll be back."
-*Fallout 76 is a bad game*, "ᛚᛟᛟᚲ ᛁ ᚷᛖᛏ ᛁᛏ ᛁᛟᚢ×ᚱᛖ ᚠᚱᚢᛊᛏᚱᚨᛏᛖᛞ ᛒᚢᛏ ᚲᚨᛚᛚᛁᛜ ᚠᚨᛚᛚᛟᚢᛏ 76 ᚨ ×ᛒᚨᛞ ᚷᚨᛗᛖ×? ᛏᚺᚨᛏ×ᛊ ᛚᚨᛉᛁ. ᛞᛟ ᛁᛟᚢ ᛖᚢᛖᚾ ᚱᛖᛚᛁᛉᛖ ᚦᛖ ᛊᚲᚨᛚᛖ ᛟᚠ ᚹᚺᚨᛏ ᚹᛖ ᚨᛏᛏᛖᛗᛈᛏᛖᛞ? ᚨ ᚠᚢᛚᛚᛁ ᛟᚾᛚᛁᚾᛖ ᚠᚨᛚᛚᛟᚢᛏ ᛖᚲᛊᛈᛖᚱᛁᛖᚾᚲᛖ—ᛊᛟᛗᛖᚦᛁᛜ ᚾᛟ ᛟᚾᛖ ᚦᛟᚢᚷᚺᛏ ᚹᛖ ᚲᛟᚢᛚᛞ ᛈᚢᛚᛚ ᛟᚠᚠ. ᛊᚢᚱᛖ ᛁᛏ ᚺᚨᛞ ᛁᛊᛊᚢᛖᛊ ᚨᛏ ᛚᚨᚢᚾᚲᚺ—ᛖᚢᛖᚱᛁ ᚨᛗᛒᛁᛏᛟᚢᛊ ᛈᚱᛟᛃᛖᚲᛏ ᛞᛟᛖᛊ—ᛒᚢᛏ ᚹᛖ ᛞᛁᛞᚾ×ᛏ ᚨᛒᚨᚾᛞᛟᚾ ᛁᛏ. ᚹᛖ ᛚᛁᛊᛏᛖᚾᛖᛞ ᚹᛖ ᚢᛈᛞᚨᛏᛖᛞ ᚹᛖ ᛁᛗᛈᚱᛟᚢᛖᛞ. ᛁᛟᚢ ᚹᚨᚾᛏ ᛏᛟ ᚠᛟᚲᚢᛊ ᛟᚾ ᚦᛖ ᚠᛚᚨᚹᛊ? ᚠᛁᚾᛖ. ᛒᚢᛏ ᛗᚨᛁᛒᛖ ᚷᛁᚢᛖ ᛊᛟᛗᛖ ᚲᚱᛖᛞᛁᛏ ᛏᛟ ᚦᛖ ᛏᛖᛗ ᚹᚺᛟ ᛈᛟᚢᚱᛖᛞ ᚦᛖᛁᚱ ᛊᛟᚢᛚᛊ ᛁᚾᛏᛟ ᚲᚱᛖᛏᛁᛜ ᚨᚾ ᛖᚾᛏᛁᚱᛖ ᚹᛟᚱᛚᛞ ᚹᚺᛖᚱᛖ ᛁᛟᚢ ᚲᚨᚾ ᚾᚢᚲᛖ ᛁᛟᚢᚱ ᚠᚱᛁᛖᚾᛞᛊ. ᛁᛏ’ᛊ ᛖᛊᛁ ᛏᛟ ᛊᛁᛏ ᚦᛖᚱᛖ ᚨᚾᛞ ᚲᚱᛁᛏᛁᚲᛁᛉᛖ—ᛏᚱᛁ ᛒᚢᛁᛚᛞᛁᛜ ᛊᛟᛗᛖᚦᛁᛜ ᚦᚨᛏ ᛖᚲᛊᛈᚨᚾᛊᛁᚢᛖ ᚦᛖᚾ ᚹᛖ’ᛚᛚ ᛏᚨᛚᚲ."
-
-
+*Fallout 76 is a bad game*, "ᛚᛟᛟᛲ ᛁ ᚷᛖᛏ ᛁᛏ ᛁᛟᚢ×ᚱᛖ ᚠᚱᚢᛊᛏᚱᚨᛏᛖᛞ ᛒᚢᛏ ᚲᚨᛚᛚᛁᛜ ᚠᚨᛚᛚᛟᚢᛏ 76 ᚨ ×ᛒᚨᛞ ᚷᚨᛗᛖ×? ᛏᚺᚨᛏ×ᛊ ᛚᚨᛉᛁ. ᛞᛟ ᛁᛟᚢ ᛖᚢᛖᚾ ᚱᛖᛚᛁᛉᛖ ᚦᛖ ᛊᚲᚨᛚᛖ ᛟᚠ ᚹᚺᚨᛏ ᚹᛖ ᚨᛏᛏᛖᛗᛏᛖᛞ? ᚨ ᚠᚢᛚᛚᛁ ᛟᚾᛚᛁᚾᛖ ᚠᚨᛚᛚᛟᚢᛏ ᛖᚲᛊᛒᛖᛞᛘᛗᛖᛊ... ᛏᚱᛁ ᛒᚢᛁᛚᛁᛜ ᛊᛟᛗᛖᚦᛁᛜ ᚦᚨᛏ."
