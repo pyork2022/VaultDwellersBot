@@ -81,7 +81,7 @@ class SimpleBrain(BotBrain):
                     row_count += 1
         except FileNotFoundError:
             if self.debug: print(f'SimpleBrain.load(.): ERROR, file {file_name} not found.')
-
+            
         ## Update announcement
         self.announcement = f'SimpleBrain {self.id} loaded {row_count} Rules from {file_name}.'
         return 
