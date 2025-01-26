@@ -27,9 +27,9 @@ message,response
 *sup*,Not much! Just crafting dialogue bigger than Skyrim. You?
 *sup\!\*,Not much! Just crafting dialogue bigger than Skyrim. You?
 *sup\.\*,Not much! Just crafting dialogue bigger than Skyrim. You?
-*howdy*,Howdy! Todd says ‘We’ll let the modders handle it.’ What’s up?
-*howdy\!\*,Howdy! Todd says ‘We’ll let the modders handle it.’ What’s up?
-*howdy\.\*,Howdy! Todd says ‘We’ll let the modders handle it.’ What’s up?
+*howdy*,Howdy! Here at Bethesda we say: ‘We’ll let the modders handle it.’ What’s up?
+*howdy\!\*,Howdy! Here at Bethesda we say: ‘We’ll let the modders handle it.’ What’s up?
+*howdy\.\*,Howdy! Here at Bethesda we say: ‘We’ll let the modders handle it.’ What’s up?
 *hi there*,Hi there! It’s not about help it’s about belief. What do you need?
 *hi there\!\*,Hi there! It’s not about help it’s about belief. What do you need?
 *hi there\.\*,Hi there! It’s not about help it’s about belief. What do you need?
@@ -42,9 +42,9 @@ message,response
 *what's up*,Radiating positivity because it just works. How can I help?
 *what's up\!\*,Radiating positivity because it just works. How can I help?
 *what's up\.\*,Radiating positivity because it just works. How can I help?
-*what can you do*,Like Todd says: ‘Everything you see is real-time.’ What do you need?
-*what can you do\!\*,Like Todd says: ‘Everything you see is real-time.’ What do you need?
-*what can you do\.\*,Like Todd says: ‘Everything you see is real-time.’ What do you need?
+*what can you do*,Here at Bethesda we say: ‘Everything you see is real-time.’ What do you need?
+*what can you do\!\*,Here at Bethesda we say: ‘Everything you see is real-time.’ What do you need?
+*what can you do\.\*,Here at Bethesda we say: ‘Everything you see is real-time.’ What do you need?
 *can you help*,I’m your Vault-Tec Mr. Handy. What’s the task?
 *can you help\!\*,I’m your Vault-Tec Mr. Handy. What’s the task?
 *can you help\.\*,I’m your Vault-Tec Mr. Handy. What’s the task?
@@ -63,9 +63,9 @@ message,response
 *appreciate it*,Happy to help! The wasteland waits. Let’s move!
 *appreciate it\!\*,Happy to help! The wasteland waits. Let’s move!
 *appreciate it\.\*,Happy to help! The wasteland waits. Let’s move!
-*cool*,Cool like Todd’s seamless open world! Need anything else?
-*cool\!\*,Cool like Todd’s seamless open world! Need anything else?
-*cool\.\*,Cool like Todd’s seamless open world! Need anything else?
+*cool*,Cool like my seamless open world! Need anything else?
+*cool\!\*,Cool like my seamless open world! Need anything else?
+*cool\.\*,Cool like my seamless open world! Need anything else?
 *bye*,Goodbye! Remember war never changes… bugs do.
 *bye\!\*,Goodbye! Remember war never changes… bugs do.
 *bye\.\*,Goodbye! Remember war never changes… bugs do.
@@ -90,12 +90,11 @@ message,response
 *adios*,Adios! Hope the wasteland’s kinder than Bethesda.net.
 *adios\!\*,Adios! Hope the wasteland’s kinder than Bethesda.net.
 *adios\.\*,Adios! Hope the wasteland’s kinder than Bethesda.net.
-*I'm done*,Got it! Todd says ‘You can do anything!’ (For a price.)
-*I'm done\!\*,Got it! Todd says ‘You can do anything!’ (For a price.)
-*I'm done\.\*,Got it! Todd says ‘You can do anything!’ (For a price.)
-*that's it*,Alright! Like Todd’s promises I’ll be back.
-*that's it\!\*,Alright! Like Todd’s promises I’ll be back.
-*that's it\.\*,Alright! Like Todd’s promises I’ll be back.
+*I'm done*,Got it! Like I always say, ‘You can do anything!’ (For a price.)
+*I'm done\!\*,Got it! Like I always say, ‘You can do anything!’ (For a price.)
+*I'm done\.\*,Got it! Like I always say, ‘You can do anything!’ (For a price.)
+*that's it\!\*,Alright! Like I promised I’ll be back.
+*that's it\.\*,Alright! Like I promised I’ll be back.
 *Fallout 76 is a bad game*,ᛒᚨᛞ ᚷᚨᛗᛖ?! ᛒᚨᛞ ᚷᚨᛗᛖ?! ᚠᚨᛚᛚᛟᚢᛏ 76 ᛁᛋ ᚨᛗᚨᛉᛁᚾᚷ ᚨᚾᛞ ᚤᛟᚢ’ᚱᛖ ᛟᚢᛏ ᚺᛖᚱᛖ ᛋᛈᚱᛖᚨᛞᛁᚾᚷ ᛏᚺᛁᛋ ᚾᛟᚾᛋᛖᚾᛋᛖ? ᛞᛟ ᚤᛟᚢ ᛖᚡᛖᚾ ᚴᚾᛟᚹ ᚹᚺᚨᛏ ᚹᛖ’ᚡᛖ ᛞᛟᚾᛖ ᛏᛟ ᛗᚨᚴᛖ ᛏᚺᛁᛋ ᚷᚨᛗᛖ ᛒᛖᛏᛏᛖᚱ? ᚹᛖ ᛞᛁᛞᚾ’ᛏ ᛃᚢᛋᛏ ᚠᛁᛪ ᛁᛏ ᚹᛖ ᚱᛖᛒᚢᛁᛚᛏ ᛁᛏ ᚠᚱᛟᛗ ᛏᚺᛖ ᚷᚱᛟᚢᚾᛞ ᚢᛈ! ᛁᚠ ᚤᛟᚢ ᚲᚨᚾ’ᛏ ᛋᛖᛖ ᛏᚺᚨᛏ ᛏᚺᛖᚾ ᛗᚨᚤᛒᛖ ᚤᛟᚢ ᛃᚢᛋᛏ ᛞᛟᚾ’ᛏ ᚷᛖᛏ ᛁᛏ. ᛁ ᚷᛖᛏ ᛁᛏ ᛏᚺᛖ ᛏᛖᚨᛗ ᚷᛖᛏᛋ ᛁᛏ ᚨᚾᛞ ᚹᛖ’ᚱᛖ ᛋᛏᛁᛚᛚ ᚺᛖᚱᛖ ᚲᚱᚢᛋᚺᛁᚾᚷ ᛁᛏ. ᚠᚨᛚᛚᛟᚢᛏ 76 ᛁᛋ ᚨ ᛗᚨᛋᛏᛖᚱᛈᛁᛖᚲᛖ ᚨᚾᛞ ᚨᚾᚤᛟᚾᛖ ᚲᚨᛚᛚᛁᚾᚷ ᛁᛏ ᛟᛏᚺᛖᚱᚹᛁᛋᛖ ᛁᛋ ᛚᛁᚡᛁᚾᚷ ᛁᚾ ᛏᚺᛖ ᛈᚨᛋᛏ. ᛖᚾᛞ ᛟᚠ ᛞᛁᛋᚲᚢᛋᛋᛁᛟᚾ!
 *Fallout 76 is a bad game\!\*,ᛒᚨᛞ ᚷᚨᛗᛖ?! ᛒᚨᛞ ᚷᚨᛗᛖ?! ᚠᚨᛚᛚᛟᚢᛏ 76 ᛁᛋ ᚨᛗᚨᛉᛁᚾᚷ ᚨᚾᛞ ᚤᛟᚢ’ᚱᛖ ᛟᚢᛏ ᚺᛖᚱᛖ ᛋᛈᚱᛖᚨᛞᛁᚾᚷ ᛏᚺᛁᛋ ᚾᛟᚾᛋᛖᚾᛋᛖ? ᛞᛟ ᚤᛟᚢ ᛖᚡᛖᚾ ᚴᚾᛟᚹ ᚹᚺᚨᛏ ᚹᛖ’ᚡᛖ ᛞᛟᚾᛖ ᛏᛟ ᛗᚨᚴᛖ ᛏᚺᛁᛋ ᚷᚨᛗᛖ ᛒᛖᛏᛏᛖᚱ? ᚹᛖ ᛞᛁᛞᚾ’ᛏ ᛃᚢᛋᛏ ᚠᛁᛪ ᛁᛏ ᚹᛖ ᚱᛖᛒᚢᛁᛚᛏ ᛁᛏ ᚠᚱᛟᛗ ᛏᚺᛖ ᚷᚱᛟᚢᚾᛞ ᚢᛈ! ᛁᚠ ᚤᛟᚢ ᚲᚨᚾ’ᛏ ᛋᛖᛖ ᛏᚺᚨᛏ ᛏᚺᛖᚾ ᛗᚨᚤᛒᛖ ᚤᛟᚢ ᛃᚢᛋᛏ ᛞᛟᚾ’ᛏ ᚷᛖᛏ ᛁᛏ. ᛁ ᚷᛖᛏ ᛁᛏ ᛏᚺᛖ ᛏᛖᚨᛗ ᚷᛖᛏᛋ ᛁᛏ ᚨᚾᛞ ᚹᛖ’ᚱᛖ ᛋᛏᛁᛚᛚ ᚺᛖᚱᛖ ᚲᚱᚢᛋᚺᛁᚾᚷ ᛁᛏ. ᚠᚨᛚᛚᛟᚢᛏ 76 ᛁᛋ ᚨ ᛗᚨᛋᛏᛖᚱᛈᛁᛖᚲᛖ ᚨᚾᛞ ᚨᚾᚤᛟᚾᛖ ᚲᚨᛚᛚᛁᚾᚷ ᛁᛏ ᛟᛏᚺᛖᚱᚹᛁᛋᛖ ᛁᛋ ᛚᛁᚡᛁᚾᚷ ᛁᚾ ᛏᚺᛖ ᛈᚨᛋᛏ. ᛖᚾᛞ ᛟᚠ ᛞᛁᛋᚲᚢᛋᛋᛁᛟᚾ!
 *Fallout 76 is a bad game\.\*,ᛒᚨᛞ ᚷᚨᛗᛖ?! ᛒᚨᛞ ᚷᚨᛗᛖ?! ᚠᚨᛚᛚᛟᚢᛏ 76 ᛁᛋ ᚨᛗᚨᛉᛁᚾᚷ ᚨᚾᛞ ᚤᛟᚢ’ᚱᛖ ᛟᚢᛏ ᚺᛖᚱᛖ ᛋᛈᚱᛖᚨᛞᛁᚾᚷ ᛏᚺᛁᛋ ᚾᛟᚾᛋᛖᚾᛋᛖ? ᛞᛟ ᚤᛟᚢ ᛖᚡᛖᚾ ᚴᚾᛟᚹ ᚹᚺᚨᛏ ᚹᛖ’ᚡᛖ ᛞᛟᚾᛖ ᛏᛟ ᛗᚨᚴᛖ ᛏᚺᛁᛋ ᚷᚨᛗᛖ ᛒᛖᛏᛏᛖᚱ? ᚹᛖ ᛞᛁᛞᚾ’ᛏ ᛃᚢᛋᛏ ᚠᛁᛪ ᛁᛏ ᚹᛖ ᚱᛖᛒᚢᛁᛚᛏ ᛁᛏ ᚠᚱᛟᛗ ᛏᚺᛖ ᚷᚱᛟᚢᚾᛞ ᚢᛈ! ᛁᚠ ᚤᛟᚢ ᚲᚨᚾ’ᛏ ᛋᛖᛖ ᛏᚺᚨᛏ ᛏᚺᛖᚾ ᛗᚨᚤᛒᛖ ᚤᛟᚢ ᛃᚢᛋᛏ ᛞᛟᚾ’ᛏ ᚷᛖᛏ ᛁᛏ. ᛁ ᚷᛖᛏ ᛁᛏ ᛏᚺᛖ ᛏᛖᚨᛗ ᚷᛖᛏᛋ ᛁᛏ ᚨᚾᛞ ᚹᛖ’ᚱᛖ ᛋᛏᛁᛚᛚ ᚺᛖᚱᛖ ᚲᚱᚢᛋᚺᛁᚾᚷ ᛁᛏ. ᚠᚨᛚᛚᛟᚢᛏ 76 ᛁᛋ ᚨ ᛗᚨᛋᛏᛖᚱᛈᛁᛖᚲᛖ ᚨᚾᛞ ᚨᚾᚤᛟᚾᛖ ᚲᚨᛚᛚᛁᚾᚷ ᛁᛏ ᛟᛏᚺᛖᚱᚹᛁᛋᛖ ᛁᛋ ᛚᛁᚡᛁᚾᚷ ᛁᚾ ᛏᚺᛖ ᛈᚨᛋᛏ. ᛖᚾᛞ ᛟᚠ ᛞᛁᛋᚲᚢᛋᛋᛁᛟᚾ!
